@@ -1,0 +1,26 @@
+[data-color="red"] td a {
+	border-color: red !important;
+	color: red !important;
+}
+[data-color="green"] td a {
+	border-color: green !important;
+	color: green !important;
+}
+[data-color="blue"] td a {
+	border-color: blue !important;
+	color: blue !important;
+}
+[data-color] td a.ui-state-active {
+	color: white !important;
+}
+
+.ui-widget-content {
+	text-align: center;
+}
+.ui-datepicker .ui-datepicker-buttonpane button {
+	float: none;
+}
+textarea {
+	width: 100%;
+	height: 500px;
+}
